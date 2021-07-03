@@ -8,8 +8,33 @@
 
 <a href="https://twitter.com/crio_do"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crio_do?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@crio_do"></a>
 
+#### DISCLAIMER
+
+    1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch.
+    2. Any type of changes should be carried out only from your local machine or personal github account. 
+    3. Do not touch the following file(s)/folder(s) 
+        - readme.md (Inside the repository. Your project specific readme is different.) 
+        - .all-contributors-src
+        - CONTRIBUTING.md - For your reference 
+        - .github folder
+
+
 # Introduction
 Bots are software programs that combine requests, which are typically provided as text, with contextual data, such as geolocation and payment information, to appropriately handle the request and respond. Bots are often also called "chatbots", "assistants" or "agents."
+
+### Regarding Submissions 
+
+Please refer to `contributing.md` within the same folder for all the submission guidelines. It contains the documentation process/Demo video to assist you. For the readme structure inside your project, check the readme inside [Project_Name](https://github.com/Crio-WFH/Telegram-bots/tree/main/Project_Name). 
+
+<!--### 1. Fork this repo !
+  ![img](https://github.com/Crio-WFH/demo/blob/main/dont%20delete%20this%20file/Screenshot%20from%202021-07-03%2013-25-36.png)
+  
+### 2. After forking , Made a new folder  
+ ![img2](https://github.com/Crio-WFH/demo/blob/main/dont%20delete%20this%20file/Screenshot%20from%202021-07-03%2013-25-59.png)
+ ![img3](https://github.com/Crio-WFH/demo/blob/main/dont%20delete%20this%20file/Screenshot%20from%202021-07-03%2013-26-20.png)
+ 
+### 3. See [Folder name](https://github.com/Username-demo/Android-apps/tree/main/Project%20name) to view further structure -->
+
 
 References To get started :
 - [What are bots? ](https://www.fullstackpython.com/bots.html)
