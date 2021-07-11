@@ -1,6 +1,6 @@
 This bot has mainly 3 functionalities which can be extended as per requirements.
 
-LINK TO THE BLOG: https://aakashshah349.wixsite.com/telebot2021
+LINK TO THE BLOG: https://aakashshah349.wixsite.com/telebot2021/post/information-security-keep-your-devices-safe
 ###################################################################################################
 
 The 3 functionalities which can be used now are as follows:
