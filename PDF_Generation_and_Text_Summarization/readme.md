@@ -17,3 +17,11 @@ FOR USING THE CODE IN YOUR MACHINE, go to https://replit.com (Suggested)
 -> Go to your account and add the main.py file and the .handler-saves folder to your repository and run the main.py file.
 -> Make sure to set the api keys after getting them from https://www.convertapi.com/ and the one for telegram bot by following the steps mentioned in       https://core.telegram.org/bots/#6-botfather
 -> Run the main.py file and send any random text on your bot to use the functionalities.
+
+![1](https://user-images.githubusercontent.com/80626053/125193867-5e37e980-e26c-11eb-94aa-aa1bf90500ed.png)
+
+![2](https://user-images.githubusercontent.com/80626053/125193903-84f62000-e26c-11eb-8b6c-26bd5606aa23.png)
+
+![3](https://user-images.githubusercontent.com/80626053/125193908-89223d80-e26c-11eb-8acb-11920d33b878.png)
+
+![4](https://user-images.githubusercontent.com/80626053/125193910-8c1d2e00-e26c-11eb-8c52-1ce8cc5ca76f.png)
