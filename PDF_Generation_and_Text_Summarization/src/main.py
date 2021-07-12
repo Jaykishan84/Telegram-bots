@@ -19,13 +19,11 @@ nltk.download("punkt")
 LANGUAGE = "english"
 
 #Set up the environment variables.
-#api_key = os.environ['API_KEY']
-api_key = "1893164819:AAHthWthkw6uZSAkLIEJvB4i-aO4TawryVE"
+api_key = os.environ['API_KEY']
 
 #taken from the website https://www.convertapi.com/
 #Set up the environment variables after getting an api key.
-#file_conversion_api_key = os.environ['CONVERSION_API_KEY']
-file_conversion_api_key = "TdEcoAB76yK0xKcW"
+file_conversion_api_key = os.environ['CONVERSION_API_KEY']
 
 #Authentication
 convertapi.api_secret = file_conversion_api_key
