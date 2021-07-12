@@ -1,6 +1,9 @@
 This bot has mainly 3 functionalities which can be extended as per requirements.
-
-LINK TO THE BLOG: https://aakashshah349.wixsite.com/telebot2021/post/information-security-keep-your-devices-safe
+FOR USING THIS BOT IN TELEGRAM,
+  1. Go to search bar.
+  2. Search for jk2000_bot.
+  3. click on start.
+  4. Follow the instructions of the bot.(select the functionalities you want to use.) 
 ###################################################################################################
 
 The 3 functionalities which can be used now are as follows:
@@ -26,3 +29,8 @@ FOR USING THE CODE IN YOUR MACHINE, go to https://replit.com (Suggested)
 ![3](https://user-images.githubusercontent.com/80626053/125193908-89223d80-e26c-11eb-8acb-11920d33b878.png)
 
 ![4](https://user-images.githubusercontent.com/80626053/125193910-8c1d2e00-e26c-11eb-8c52-1ce8cc5ca76f.png)
+
+######################################################################################################
+
+LINK TO THE VIDEO: https://drive.google.com/file/d/1O5O7lrpLtuPsJf750yxpLVJU5M7R2-_V/view?usp=sharing
+LINK TO THE BLOG: https://aakashshah349.wixsite.com/telebot2021/post/information-security-keep-your-devices-safe
