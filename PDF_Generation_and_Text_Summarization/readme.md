@@ -32,5 +32,5 @@ FOR USING THE CODE IN YOUR MACHINE, go to https://replit.com (Suggested)
 
 ######################################################################################################
 
-LINK TO THE VIDEO: https://drive.google.com/file/d/1O5O7lrpLtuPsJf750yxpLVJU5M7R2-_V/view?usp=sharing
-LINK TO THE BLOG: https://aakashshah349.wixsite.com/telebot2021/post/information-security-keep-your-devices-safe
+1. LINK TO THE VIDEO: https://drive.google.com/file/d/1O5O7lrpLtuPsJf750yxpLVJU5M7R2-_V/view?usp=sharing
+2. LINK TO THE BLOG: https://aakashshah349.wixsite.com/telebot2021/post/information-security-keep-your-devices-safe
