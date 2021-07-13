@@ -66,6 +66,18 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "Jaykishan84",
+      "name": "Jaykishan84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80626053?v=4",
+      "profile": "https://github.com/Jaykishan84",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
